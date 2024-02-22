@@ -1,3 +1,9 @@
+# How to run this project?
+
+In terminal navigate to the root folder and run `ng s` command. Open a new termial window and navigate to the `server/` folder and run `json-server cars.json` command. In browser open the `http://localhost:4200/` path.
+
+In the running application you can add new cars on the `New Car` page. You can list all the cars in the database on the `Cars` page by clicking to the `Get data from JSON` button. Here you can delete or edit cars.
+
 # HttpCrudRoutingSolutionAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.9.
