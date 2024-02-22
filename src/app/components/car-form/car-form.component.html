@@ -1,0 +1,83 @@
+<div class="row flex-grow-1 justify-content-center align-items-top mb-4">
+  <div class="col-6 pt-4">
+    <form class="shadow p-3" [formGroup]="carForm">
+      <div class="mb-3">
+        <label for="brand" class="form-label">Brand</label>
+        <input
+          type="text"
+          class="form-control"
+          id="brand"
+          formControlName="brand"
+        />
+        <small *ngIf="brand?.invalid && brand?.dirty" class="text-danger"
+          >Érvénytelen brand!</small
+        >
+      </div>
+      <div class="mb-3">
+        <label for="model" class="form-label">Model</label>
+        <input
+          type="text"
+          class="form-control"
+          id="model"
+          formControlName="model"
+        />
+        <small *ngIf="model?.invalid && model?.dirty" class="text-danger"
+          >Érvénytelen model!</small
+        >
+      </div>
+      <div class="mb-3">
+        <label for="year" class="form-label">Year</label>
+        <input
+          type="number"
+          class="form-control"
+          id="year"
+          formControlName="year"
+        />
+        <small *ngIf="year?.invalid && year?.dirty" class="text-danger"
+          >Érvénytelen year! (csak négyjegyű szám lehet)</small
+        >
+      </div>
+      <div class="mb-3">
+        <label for="country" class="form-label">Country</label>
+        <input
+          type="text"
+          class="form-control"
+          id="country"
+          formControlName="country"
+        />
+        <small *ngIf="country?.invalid && country?.dirty" class="text-danger"
+          >Érvénytelen country!</small
+        >
+      </div>
+      <div class="mb-3">
+        <label for="damage" class="form-label">Damage-0 | not damaged-1 </label>
+        <input
+          type="text"
+          class="form-control"
+          id="damage"
+          formControlName="damage"
+        />
+        <small *ngIf="damage?.invalid && damage?.dirty" class="text-danger"
+          >Érvénytelen damage! Csak 0 vagy 1 lehet.</small
+        >
+      </div>
+      <div class="mb-3">
+        <label for="color" class="form-label">Color</label>
+        <input
+          type="text"
+          class="form-control"
+          id="color"
+          formControlName="color"
+        />
+        <small *ngIf="color?.invalid && color?.dirty" class="text-danger"
+          >Érvénytelen color!</small
+        >
+      </div>
+      <div class="text-center">
+        <button (click)="saveCar()" type="submit" class="btn btn-primary">
+          {{ id ? "Update" : "Create" }}
+        </button>
+      </div>
+    </form>
+  </div>
+</div>

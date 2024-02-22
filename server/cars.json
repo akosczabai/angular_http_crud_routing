@@ -1,0 +1,2677 @@
+{
+  "cars": [
+    {
+      "brand": "Pontiac",
+      "model": "Firebird Formula",
+      "year": 1999,
+      "country": "Ukraine",
+      "damage": 0,
+      "color": "Maroon1",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "brand": "Volvo",
+      "model": "C70",
+      "year": 2001,
+      "country": "Japan",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "brand": "Volvo",
+      "model": "C30",
+      "year": 2011,
+      "country": "China",
+      "damage": 1,
+      "color": "Mauv",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "brand": "Toyota",
+      "model": "Tercel",
+      "year": 1993,
+      "country": "Sweden",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 7,
+      "brand": "MINI",
+      "model": "Clubman",
+      "year": 2010,
+      "country": "Nigeria",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 8,
+      "brand": "Honda",
+      "model": "Accord",
+      "year": 1994,
+      "country": "Philippines",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 9,
+      "brand": "Mercury",
+      "model": "Milan",
+      "year": 2007,
+      "country": "Russia",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 11,
+      "brand": "Buick",
+      "model": "Rendezvous",
+      "year": 2006,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Red"
+    },
+    {
+      "id": 12,
+      "brand": "Subaru",
+      "model": "Forester",
+      "year": 2005,
+      "country": "Pakistan",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 13,
+      "brand": "Dodge",
+      "model": "Ram 3500",
+      "year": 2006,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 14,
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2004,
+      "country": "Greece",
+      "damage": 1,
+      "color": "Puce"
+    },
+    {
+      "id": 15,
+      "brand": "GMC",
+      "model": "Rally Wagon 2500",
+      "year": 1993,
+      "country": "Philippines",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 16,
+      "brand": "Renault",
+      "model": "Alliance",
+      "year": 1983,
+      "country": "Egypt",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 17,
+      "brand": "Mazda",
+      "model": "MX-5",
+      "year": 2008,
+      "country": "Czech Republic",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 18,
+      "brand": "Mitsubishi",
+      "model": "Mirage",
+      "year": 2001,
+      "country": "Canada",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 19,
+      "brand": "Nissan",
+      "model": "Maxima",
+      "year": 2003,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 20,
+      "brand": "Buick",
+      "model": "Roadmaster",
+      "year": 1995,
+      "country": "China",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 21,
+      "brand": "Volvo",
+      "model": "XC70",
+      "year": 2005,
+      "country": "Canada",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 22,
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "year": 2012,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 23,
+      "brand": "BMW",
+      "model": "8 Series",
+      "year": 1995,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 24,
+      "brand": "Mitsubishi",
+      "model": "Challenger",
+      "year": 1998,
+      "country": "Jordan",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 25,
+      "brand": "Isuzu",
+      "model": "VehiCROSS",
+      "year": 1999,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 26,
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": 2004,
+      "country": "China",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 27,
+      "brand": "Kia",
+      "model": "Rio",
+      "year": 2001,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 28,
+      "brand": "Volkswagen",
+      "model": "GTI",
+      "year": 1997,
+      "country": "Thailand",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 29,
+      "brand": "Mitsubishi",
+      "model": "Starion",
+      "year": 1986,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 30,
+      "brand": "Lincoln",
+      "model": "LS",
+      "year": 2004,
+      "country": "Yemen",
+      "damage": 0,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 31,
+      "brand": "Ford",
+      "model": "Explorer Sport Trac",
+      "year": 2009,
+      "country": "Venezuela",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 32,
+      "brand": "Suzuki",
+      "model": "Forenza",
+      "year": 2004,
+      "country": "France",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 33,
+      "brand": "Lexus",
+      "model": "ES",
+      "year": 1997,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 34,
+      "brand": "Volkswagen",
+      "model": "Type 2",
+      "year": 1986,
+      "country": "France",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 35,
+      "brand": "Lincoln",
+      "model": "LS",
+      "year": 2000,
+      "country": "Brazil",
+      "damage": 0,
+      "color": "Teal"
+    },
+    {
+      "id": 36,
+      "brand": "Chevrolet",
+      "model": "HHR",
+      "year": 2006,
+      "country": "Libya",
+      "damage": 1,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 37,
+      "brand": "Chevrolet",
+      "model": "Express 2500",
+      "year": 1999,
+      "country": "China",
+      "damage": 1,
+      "color": "Pink"
+    },
+    {
+      "id": 38,
+      "brand": "Bugatti",
+      "model": "Veyron",
+      "year": 2011,
+      "country": "France",
+      "damage": 1,
+      "color": "Pink"
+    },
+    {
+      "id": 39,
+      "brand": "Mercury",
+      "model": "Cougar",
+      "year": 1991,
+      "country": "China",
+      "damage": 0,
+      "color": "Green"
+    },
+    {
+      "id": 40,
+      "brand": "Mercedes-Benz",
+      "model": "400E",
+      "year": 1992,
+      "country": "Brazil",
+      "damage": 0,
+      "color": "Mauv"
+    },
+    {
+      "id": 41,
+      "brand": "Buick",
+      "model": "LeSabre",
+      "year": 2005,
+      "country": "Russia",
+      "damage": 1,
+      "color": "Purple"
+    },
+    {
+      "id": 42,
+      "brand": "Mercedes-Benz",
+      "model": "SLS-Class",
+      "year": 2012,
+      "country": "Tanzania",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 43,
+      "brand": "Acura",
+      "model": "Vigor",
+      "year": 1994,
+      "country": "Burkina Faso",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 44,
+      "brand": "Chevrolet",
+      "model": "Tahoe",
+      "year": 2007,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 45,
+      "brand": "Mercury",
+      "model": "Marquis",
+      "year": 1984,
+      "country": "Czech Republic",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 46,
+      "brand": "Chrysler",
+      "model": "Pacifica",
+      "year": 2005,
+      "country": "Japan",
+      "damage": 1,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 47,
+      "brand": "Ford",
+      "model": "LTD Crown Victoria",
+      "year": 1988,
+      "country": "Sweden",
+      "damage": 0,
+      "color": "Green"
+    },
+    {
+      "id": 48,
+      "brand": "Audi",
+      "model": "R8",
+      "year": 2012,
+      "country": "China",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 49,
+      "brand": "GMC",
+      "model": "Vandura 1500",
+      "year": 1993,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 50,
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2008,
+      "country": "China",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 51,
+      "brand": "Ford",
+      "model": "Taurus",
+      "year": 1987,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 52,
+      "brand": "Mercedes-Benz",
+      "model": "CLK-Class",
+      "year": 2008,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Purple"
+    },
+    {
+      "id": 53,
+      "brand": "Dodge",
+      "model": "Grand Caravan",
+      "year": 1993,
+      "country": "Nigeria",
+      "damage": 1,
+      "color": "Orange"
+    },
+    {
+      "id": 54,
+      "brand": "Ford",
+      "model": "EXP",
+      "year": 1988,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 55,
+      "brand": "Subaru",
+      "model": "Loyale",
+      "year": 1993,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 56,
+      "brand": "Porsche",
+      "model": "911",
+      "year": 1989,
+      "country": "Philippines",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 57,
+      "brand": "Ford",
+      "model": "F350",
+      "year": 2003,
+      "country": "China",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 58,
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 1995,
+      "country": "Colombia",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 59,
+      "brand": "Volvo",
+      "model": "XC70",
+      "year": 2007,
+      "country": "China",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 60,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 1969,
+      "country": "Belgium",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 61,
+      "brand": "Volkswagen",
+      "model": "Eurovan",
+      "year": 1992,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 62,
+      "brand": "Cadillac",
+      "model": "DeVille",
+      "year": 1999,
+      "country": "Switzerland",
+      "damage": 0,
+      "color": "Crimson"
+    },
+    {
+      "id": 63,
+      "brand": "Ford",
+      "model": "Escort",
+      "year": 2001,
+      "country": "China",
+      "damage": 0,
+      "color": "Purple"
+    },
+    {
+      "id": 64,
+      "brand": "Infiniti",
+      "model": "I",
+      "year": 2004,
+      "country": "Ghana",
+      "damage": 0,
+      "color": "Khaki"
+    },
+    {
+      "id": 65,
+      "brand": "Dodge",
+      "model": "Ram 1500 Club",
+      "year": 1996,
+      "country": "Ukraine",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 66,
+      "brand": "Chevrolet",
+      "model": "Impala",
+      "year": 2011,
+      "country": "France",
+      "damage": 0,
+      "color": "Green"
+    },
+    {
+      "id": 67,
+      "brand": "Subaru",
+      "model": "Outback",
+      "year": 2007,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Yellow"
+    },
+    {
+      "id": 68,
+      "brand": "Kia",
+      "model": "Sorento",
+      "year": 2012,
+      "country": "China",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 69,
+      "brand": "Porsche",
+      "model": "911",
+      "year": 1988,
+      "country": "China",
+      "damage": 1,
+      "color": "Maroon"
+    },
+    {
+      "id": 70,
+      "brand": "BMW",
+      "model": "M5",
+      "year": 1992,
+      "country": "China",
+      "damage": 0,
+      "color": "Yellow"
+    },
+    {
+      "id": 71,
+      "brand": "Dodge",
+      "model": "Avenger",
+      "year": 2000,
+      "country": "China",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 72,
+      "brand": "Toyota",
+      "model": "Tacoma Xtra",
+      "year": 2003,
+      "country": "Cuba",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 73,
+      "brand": "Ford",
+      "model": "Expedition EL",
+      "year": 2012,
+      "country": "Brazil",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 74,
+      "brand": "Toyota",
+      "model": "TundraMax",
+      "year": 2011,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 75,
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 1988,
+      "country": "China",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 76,
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "year": 1993,
+      "country": "France",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 77,
+      "brand": "Mercedes-Benz",
+      "model": "M-Class",
+      "year": 2008,
+      "country": "United States",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 78,
+      "brand": "Volvo",
+      "model": "XC90",
+      "year": 2007,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 79,
+      "brand": "GMC",
+      "model": "2500",
+      "year": 1993,
+      "country": "Ukraine",
+      "damage": 0,
+      "color": "Mauv"
+    },
+    {
+      "id": 80,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 1993,
+      "country": "Greece",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 81,
+      "brand": "Jaguar",
+      "model": "XK",
+      "year": 2011,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 82,
+      "brand": "Nissan",
+      "model": "Quest",
+      "year": 2011,
+      "country": "Albania",
+      "damage": 0,
+      "color": "Green"
+    },
+    {
+      "id": 83,
+      "brand": "Dodge",
+      "model": "Stratus",
+      "year": 2004,
+      "country": "Mongolia",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 84,
+      "brand": "Toyota",
+      "model": "Tercel",
+      "year": 1998,
+      "country": "Greece",
+      "damage": 1,
+      "color": "Blue"
+    },
+    {
+      "id": 85,
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "year": 1997,
+      "country": "Greece",
+      "damage": 0,
+      "color": "Mauv"
+    },
+    {
+      "id": 86,
+      "brand": "Pontiac",
+      "model": "Montana",
+      "year": 1999,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Indigo"
+    },
+    {
+      "id": 87,
+      "brand": "GMC",
+      "model": "1500",
+      "year": 1998,
+      "country": "China",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 88,
+      "brand": "Toyota",
+      "model": "Xtra",
+      "year": 1993,
+      "country": "China",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 89,
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "year": 1994,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 90,
+      "brand": "Audi",
+      "model": "4000s",
+      "year": 1985,
+      "country": "Ukraine",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 91,
+      "brand": "Mercury",
+      "model": "Sable",
+      "year": 1997,
+      "country": "Jamaica",
+      "damage": 1,
+      "color": "Maroon"
+    },
+    {
+      "id": 92,
+      "brand": "Nissan",
+      "model": "Maxima",
+      "year": 1990,
+      "country": "China",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 93,
+      "brand": "Oldsmobile",
+      "model": "Cutlass Supreme",
+      "year": 1996,
+      "country": "China",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 94,
+      "brand": "Kia",
+      "model": "Sephia",
+      "year": 1995,
+      "country": "Tanzania",
+      "damage": 0,
+      "color": "Purple"
+    },
+    {
+      "id": 95,
+      "brand": "Chevrolet",
+      "model": "Sportvan G20",
+      "year": 1995,
+      "country": "Philippines",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 96,
+      "brand": "Ford",
+      "model": "F-Series",
+      "year": 2001,
+      "country": "France",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 97,
+      "brand": "Honda",
+      "model": "CR-V",
+      "year": 2000,
+      "country": "United States",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 98,
+      "brand": "Chevrolet",
+      "model": "Prizm",
+      "year": 2000,
+      "country": "Czech Republic",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 99,
+      "brand": "Mercury",
+      "model": "Topaz",
+      "year": 1988,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Green"
+    },
+    {
+      "id": 100,
+      "brand": "Ford",
+      "model": "F350",
+      "year": 1997,
+      "country": "South Korea",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 101,
+      "brand": "Lincoln",
+      "model": "Continental",
+      "year": 1997,
+      "country": "Faroe Islands",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 102,
+      "brand": "Lincoln",
+      "model": "MKX",
+      "year": 2007,
+      "country": "China",
+      "damage": 1,
+      "color": "Red"
+    },
+    {
+      "id": 103,
+      "brand": "Ford",
+      "model": "Explorer Sport Trac",
+      "year": 2008,
+      "country": "Japan",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 104,
+      "brand": "Audi",
+      "model": "A8",
+      "year": 1999,
+      "country": "Tajikistan",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 105,
+      "brand": "Kia",
+      "model": "Rio",
+      "year": 2002,
+      "country": "Rwanda",
+      "damage": 0,
+      "color": "Khaki"
+    },
+    {
+      "id": 106,
+      "brand": "Nissan",
+      "model": "Maxima",
+      "year": 2007,
+      "country": "Comoros",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 107,
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": 1992,
+      "country": "China",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 108,
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2012,
+      "country": "Sudan",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 109,
+      "brand": "Buick",
+      "model": "Park Avenue",
+      "year": 2000,
+      "country": "South Korea",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 110,
+      "brand": "Ford",
+      "model": "Explorer Sport Trac",
+      "year": 2009,
+      "country": "Peru",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 111,
+      "brand": "Toyota",
+      "model": "4Runner",
+      "year": 2004,
+      "country": "United States",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 112,
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2003,
+      "country": "Portugal",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 113,
+      "brand": "Toyota",
+      "model": "Yaris",
+      "year": 2011,
+      "country": "Egypt",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 114,
+      "brand": "GMC",
+      "model": "2500 Club Coupe",
+      "year": 1992,
+      "country": "Zambia",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 115,
+      "brand": "Toyota",
+      "model": "Paseo",
+      "year": 1994,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 116,
+      "brand": "Mazda",
+      "model": "Familia",
+      "year": 1992,
+      "country": "China",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 117,
+      "brand": "Chevrolet",
+      "model": "Cobalt SS",
+      "year": 2008,
+      "country": "Poland",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 118,
+      "brand": "Audi",
+      "model": "4000s",
+      "year": 1986,
+      "country": "Ukraine",
+      "damage": 0,
+      "color": "Mauv"
+    },
+    {
+      "id": 119,
+      "brand": "Audi",
+      "model": "90",
+      "year": 1988,
+      "country": "France",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 120,
+      "brand": "Suzuki",
+      "model": "Esteem",
+      "year": 1996,
+      "country": "Thailand",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 121,
+      "brand": "Cadillac",
+      "model": "Brougham",
+      "year": 1992,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Purple"
+    },
+    {
+      "id": 122,
+      "brand": "Toyota",
+      "model": "Tercel",
+      "year": 1994,
+      "country": "Samoa",
+      "damage": 1,
+      "color": "Purple"
+    },
+    {
+      "id": 123,
+      "brand": "Volvo",
+      "model": "V90",
+      "year": 1998,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 124,
+      "brand": "Pontiac",
+      "model": "G5",
+      "year": 2008,
+      "country": "Niger",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 125,
+      "brand": "Dodge",
+      "model": "Ram Van 1500",
+      "year": 1995,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Teal"
+    },
+    {
+      "id": 126,
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2007,
+      "country": "France",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 127,
+      "brand": "Chevrolet",
+      "model": "S10 Blazer",
+      "year": 1994,
+      "country": "Canada",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 128,
+      "brand": "Dodge",
+      "model": "Neon",
+      "year": 2000,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Indigo"
+    },
+    {
+      "id": 129,
+      "brand": "Alfa Romeo",
+      "model": "164",
+      "year": 1995,
+      "country": "Niger",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 130,
+      "brand": "Ford",
+      "model": "Fairlane",
+      "year": 1966,
+      "country": "France",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 131,
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "year": 1999,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Indigo"
+    },
+    {
+      "id": 132,
+      "brand": "Oldsmobile",
+      "model": "98",
+      "year": 1996,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Yellow"
+    },
+    {
+      "id": 133,
+      "brand": "Dodge",
+      "model": "Ram 2500",
+      "year": 1999,
+      "country": "Iran",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 134,
+      "brand": "Chevrolet",
+      "model": "Astro",
+      "year": 2002,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 135,
+      "brand": "BMW",
+      "model": "Z4",
+      "year": 2006,
+      "country": "Kazakhstan",
+      "damage": 0,
+      "color": "Green"
+    },
+    {
+      "id": 136,
+      "brand": "Dodge",
+      "model": "Ram 1500",
+      "year": 1998,
+      "country": "China",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 137,
+      "brand": "Lexus",
+      "model": "ES",
+      "year": 1998,
+      "country": "France",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 138,
+      "brand": "Cadillac",
+      "model": "Escalade EXT",
+      "year": 2005,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 139,
+      "brand": "Aston Martin",
+      "model": "Vanquish S",
+      "year": 2005,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 140,
+      "brand": "Buick",
+      "model": "LeSabre",
+      "year": 2000,
+      "country": "China",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 141,
+      "brand": "Ford",
+      "model": "Taurus",
+      "year": 1989,
+      "country": "China",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 142,
+      "brand": "Ford",
+      "model": "Thunderbird",
+      "year": 1985,
+      "country": "Madagascar",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 143,
+      "brand": "Fairthorpe",
+      "model": "Rockette",
+      "year": 1960,
+      "country": "China",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 144,
+      "brand": "Chrysler",
+      "model": "Sebring",
+      "year": 1998,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Orange"
+    },
+    {
+      "id": 145,
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "year": 1989,
+      "country": "Guyana",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 146,
+      "brand": "Porsche",
+      "model": "Boxster",
+      "year": 1997,
+      "country": "China",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 147,
+      "brand": "Ford",
+      "model": "Edge",
+      "year": 2012,
+      "country": "Armenia",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 148,
+      "brand": "Chevrolet",
+      "model": "Monte Carlo",
+      "year": 1995,
+      "country": "China",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 149,
+      "brand": "Pontiac",
+      "model": "Sunbird",
+      "year": 1983,
+      "country": "Russia",
+      "damage": 1,
+      "color": "Blue"
+    },
+    {
+      "id": 150,
+      "brand": "Lexus",
+      "model": "RX",
+      "year": 2009,
+      "country": "Brazil",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 151,
+      "brand": "Volkswagen",
+      "model": "Cabriolet",
+      "year": 1992,
+      "country": "Argentina",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 152,
+      "brand": "Chevrolet",
+      "model": "Express",
+      "year": 2007,
+      "country": "China",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 153,
+      "brand": "Mercury",
+      "model": "Monterey",
+      "year": 2006,
+      "country": "Greece",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 154,
+      "brand": "Chevrolet",
+      "model": "Silverado 2500",
+      "year": 2009,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 155,
+      "brand": "Mercedes-Benz",
+      "model": "600SL",
+      "year": 1993,
+      "country": "Russia",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 156,
+      "brand": "Ford",
+      "model": "F250",
+      "year": 2000,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Puce"
+    },
+    {
+      "id": 157,
+      "brand": "Mitsubishi",
+      "model": "3000GT",
+      "year": 1996,
+      "country": "Tanzania",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 158,
+      "brand": "Buick",
+      "model": "Rainier",
+      "year": 2004,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Pink"
+    },
+    {
+      "id": 159,
+      "brand": "Chevrolet",
+      "model": "Beretta",
+      "year": 1995,
+      "country": "Russia",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 160,
+      "brand": "Infiniti",
+      "model": "G",
+      "year": 2001,
+      "country": "Zambia",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 161,
+      "brand": "Maybach",
+      "model": "62",
+      "year": 2004,
+      "country": "Sweden",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 162,
+      "brand": "Toyota",
+      "model": "Avalon",
+      "year": 2012,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 163,
+      "brand": "Ford",
+      "model": "E-Series",
+      "year": 2010,
+      "country": "Uzbekistan",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 164,
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2004,
+      "country": "Uganda",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 165,
+      "brand": "Pontiac",
+      "model": "Grand Prix",
+      "year": 2008,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 166,
+      "brand": "Cadillac",
+      "model": "Escalade ESV",
+      "year": 2003,
+      "country": "Canada",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 167,
+      "brand": "Maserati",
+      "model": "Quattroporte",
+      "year": 2009,
+      "country": "Uruguay",
+      "damage": 1,
+      "color": "Blue"
+    },
+    {
+      "id": 168,
+      "brand": "Nissan",
+      "model": "Maxima",
+      "year": 2006,
+      "country": "Serbia",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 169,
+      "brand": "Mitsubishi",
+      "model": "Truck",
+      "year": 1986,
+      "country": "Thailand",
+      "damage": 0,
+      "color": "Teal"
+    },
+    {
+      "id": 170,
+      "brand": "GMC",
+      "model": "Sonoma",
+      "year": 1999,
+      "country": "South Africa",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 171,
+      "brand": "Suzuki",
+      "model": "XL7",
+      "year": 2006,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 172,
+      "brand": "Lexus",
+      "model": "LS",
+      "year": 2005,
+      "country": "Ireland",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 173,
+      "brand": "Audi",
+      "model": "5000CS",
+      "year": 1988,
+      "country": "Czech Republic",
+      "damage": 1,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 174,
+      "brand": "Mercedes-Benz",
+      "model": "M-Class",
+      "year": 2003,
+      "country": "Swaziland",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 175,
+      "brand": "Saturn",
+      "model": "Aura",
+      "year": 2009,
+      "country": "China",
+      "damage": 0,
+      "color": "Purple"
+    },
+    {
+      "id": 176,
+      "brand": "Mitsubishi",
+      "model": "3000GT",
+      "year": 1998,
+      "country": "Peru",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 177,
+      "brand": "Nissan",
+      "model": "Pathfinder",
+      "year": 2002,
+      "country": "Peru",
+      "damage": 0,
+      "color": "Mauv"
+    },
+    {
+      "id": 178,
+      "brand": "Mercedes-Benz",
+      "model": "GL-Class",
+      "year": 2011,
+      "country": "China",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 179,
+      "brand": "Mazda",
+      "model": "MX-3",
+      "year": 1993,
+      "country": "Czech Republic",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 180,
+      "brand": "Subaru",
+      "model": "Alcyone SVX",
+      "year": 1995,
+      "country": "Belarus",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 181,
+      "brand": "Pontiac",
+      "model": "Grand Prix",
+      "year": 1976,
+      "country": "Slovenia",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 182,
+      "brand": "Mitsubishi",
+      "model": "Truck",
+      "year": 1990,
+      "country": "Norway",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 183,
+      "brand": "Isuzu",
+      "model": "Rodeo",
+      "year": 1994,
+      "country": "China",
+      "damage": 1,
+      "color": "Purple"
+    },
+    {
+      "id": 184,
+      "brand": "Volvo",
+      "model": "V70",
+      "year": 2010,
+      "country": "Poland",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 185,
+      "brand": "Lotus",
+      "model": "Exige",
+      "year": 2007,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Orange"
+    },
+    {
+      "id": 186,
+      "brand": "Chevrolet",
+      "model": "Silverado Hybrid",
+      "year": 2006,
+      "country": "Canada",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 187,
+      "brand": "Mazda",
+      "model": "RX-7",
+      "year": 1992,
+      "country": "Ethiopia",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 188,
+      "brand": "Mercedes-Benz",
+      "model": "SL-Class",
+      "year": 1998,
+      "country": "China",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 189,
+      "brand": "Toyota",
+      "model": "Venza",
+      "year": 2010,
+      "country": "Turkmenistan",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 190,
+      "brand": "Oldsmobile",
+      "model": "Silhouette",
+      "year": 1992,
+      "country": "Greece",
+      "damage": 1,
+      "color": "Puce"
+    },
+    {
+      "id": 191,
+      "brand": "Volkswagen",
+      "model": "Scirocco",
+      "year": 1985,
+      "country": "Ukraine",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 192,
+      "brand": "Porsche",
+      "model": "911",
+      "year": 1987,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 193,
+      "brand": "GMC",
+      "model": "3500 Club Coupe",
+      "year": 1995,
+      "country": "Thailand",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 194,
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2012,
+      "country": "Thailand",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 195,
+      "brand": "Dodge",
+      "model": "Grand Caravan",
+      "year": 2011,
+      "country": "Sweden",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 196,
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2006,
+      "country": "Kuwait",
+      "damage": 0,
+      "color": "Purple"
+    },
+    {
+      "id": 197,
+      "brand": "Isuzu",
+      "model": "Rodeo",
+      "year": 1995,
+      "country": "France",
+      "damage": 1,
+      "color": "Blue"
+    },
+    {
+      "id": 198,
+      "brand": "Chevrolet",
+      "model": "Malibu",
+      "year": 2000,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 199,
+      "brand": "Honda",
+      "model": "Passport",
+      "year": 1999,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 200,
+      "brand": "Lamborghini",
+      "model": "Diablo",
+      "year": 1990,
+      "country": "Burkina Faso",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 201,
+      "brand": "Mercedes-Benz",
+      "model": "SLK-Class",
+      "year": 1997,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 202,
+      "brand": "Ford",
+      "model": "Tempo",
+      "year": 1988,
+      "country": "Belarus",
+      "damage": 1,
+      "color": "Khaki"
+    },
+    {
+      "id": 203,
+      "brand": "Mitsubishi",
+      "model": "Eclipse",
+      "year": 1991,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 204,
+      "brand": "Daewoo",
+      "model": "Nubira",
+      "year": 2001,
+      "country": "Brazil",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 205,
+      "brand": "Lotus",
+      "model": "Elan",
+      "year": 1990,
+      "country": "Colombia",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 206,
+      "brand": "Bentley",
+      "model": "Continental Flying Spur",
+      "year": 2009,
+      "country": "Thailand",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 207,
+      "brand": "Honda",
+      "model": "Accord",
+      "year": 2010,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 208,
+      "brand": "MINI",
+      "model": "Cooper",
+      "year": 2011,
+      "country": "Argentina",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 209,
+      "brand": "Chrysler",
+      "model": "Concorde",
+      "year": 2000,
+      "country": "Venezuela",
+      "damage": 1,
+      "color": "Khaki"
+    },
+    {
+      "id": 210,
+      "brand": "Ferrari",
+      "model": "599 GTB Fiorano",
+      "year": 2007,
+      "country": "China",
+      "damage": 0,
+      "color": "Yellow"
+    },
+    {
+      "id": 211,
+      "brand": "Volkswagen",
+      "model": "Touareg",
+      "year": 2004,
+      "country": "Syria",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 212,
+      "brand": "Chevrolet",
+      "model": "Colorado",
+      "year": 2010,
+      "country": "Canada",
+      "damage": 0,
+      "color": "Teal"
+    },
+    {
+      "id": 213,
+      "brand": "Dodge",
+      "model": "Dakota",
+      "year": 2005,
+      "country": "Japan",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 214,
+      "brand": "Scion",
+      "model": "xD",
+      "year": 2011,
+      "country": "Dominican Republic",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 215,
+      "brand": "Chrysler",
+      "model": "Voyager",
+      "year": 2000,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 216,
+      "brand": "Pontiac",
+      "model": "G5",
+      "year": 2007,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 217,
+      "brand": "GMC",
+      "model": "2500 Club Coupe",
+      "year": 1998,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 218,
+      "brand": "BMW",
+      "model": "X5",
+      "year": 2009,
+      "country": "Poland",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 219,
+      "brand": "Cadillac",
+      "model": "DeVille",
+      "year": 2000,
+      "country": "Ecuador",
+      "damage": 1,
+      "color": "Maroon"
+    },
+    {
+      "id": 220,
+      "brand": "Spyker",
+      "model": "C8",
+      "year": 2007,
+      "country": "Ukraine",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 221,
+      "brand": "Mercedes-Benz",
+      "model": "R-Class",
+      "year": 2010,
+      "country": "Portugal",
+      "damage": 0,
+      "color": "Maroon"
+    },
+    {
+      "id": 222,
+      "brand": "Infiniti",
+      "model": "I",
+      "year": 1997,
+      "country": "Cuba",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 223,
+      "brand": "Dodge",
+      "model": "Charger",
+      "year": 1969,
+      "country": "South Africa",
+      "damage": 1,
+      "color": "Orange"
+    },
+    {
+      "id": 224,
+      "brand": "Kia",
+      "model": "Sorento",
+      "year": 2005,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 225,
+      "brand": "Aston Martin",
+      "model": "Vantage",
+      "year": 2006,
+      "country": "China",
+      "damage": 1,
+      "color": "Indigo"
+    },
+    {
+      "id": 226,
+      "brand": "Ford",
+      "model": "Taurus",
+      "year": 2000,
+      "country": "Netherlands",
+      "damage": 0,
+      "color": "Crimson"
+    },
+    {
+      "id": 227,
+      "brand": "GMC",
+      "model": "Sierra 1500",
+      "year": 2010,
+      "country": "China",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 228,
+      "brand": "Kia",
+      "model": "Sedona",
+      "year": 2011,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 229,
+      "brand": "Kia",
+      "model": "Sedona",
+      "year": 2008,
+      "country": "Peru",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 230,
+      "brand": "Dodge",
+      "model": "Ram 1500",
+      "year": 2005,
+      "country": "South Africa",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 231,
+      "brand": "Mercury",
+      "model": "Sable",
+      "year": 2004,
+      "country": "Iran",
+      "damage": 1,
+      "color": "Khaki"
+    },
+    {
+      "id": 232,
+      "brand": "Cadillac",
+      "model": "Escalade ESV",
+      "year": 2011,
+      "country": "Portugal",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 233,
+      "brand": "Jeep",
+      "model": "Liberty",
+      "year": 2012,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 234,
+      "brand": "Acura",
+      "model": "Integra",
+      "year": 1997,
+      "country": "Colombia",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 235,
+      "brand": "Subaru",
+      "model": "Legacy",
+      "year": 2005,
+      "country": "China",
+      "damage": 1,
+      "color": "Puce"
+    },
+    {
+      "id": 236,
+      "brand": "Mazda",
+      "model": "626",
+      "year": 2001,
+      "country": "China",
+      "damage": 0,
+      "color": "Yellow"
+    },
+    {
+      "id": 237,
+      "brand": "Ferrari",
+      "model": "California",
+      "year": 2010,
+      "country": "Poland",
+      "damage": 1,
+      "color": "Pink"
+    },
+    {
+      "id": 238,
+      "brand": "Ford",
+      "model": "E350",
+      "year": 2006,
+      "country": "Canada",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 239,
+      "brand": "Dodge",
+      "model": "Nitro",
+      "year": 2008,
+      "country": "China",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 240,
+      "brand": "Dodge",
+      "model": "Ram 1500",
+      "year": 2003,
+      "country": "Peru",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 241,
+      "brand": "Lexus",
+      "model": "SC",
+      "year": 2010,
+      "country": "Russia",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 242,
+      "brand": "BMW",
+      "model": "M5",
+      "year": 2000,
+      "country": "South Africa",
+      "damage": 0,
+      "color": "Turquoise"
+    },
+    {
+      "id": 243,
+      "brand": "Acura",
+      "model": "RL",
+      "year": 1996,
+      "country": "Palestinian Territory",
+      "damage": 1,
+      "color": "Crimson"
+    },
+    {
+      "id": 244,
+      "brand": "Toyota",
+      "model": "Avalon",
+      "year": 1995,
+      "country": "Honduras",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 245,
+      "brand": "Nissan",
+      "model": "Frontier",
+      "year": 1999,
+      "country": "China",
+      "damage": 0,
+      "color": "Khaki"
+    },
+    {
+      "id": 246,
+      "brand": "Volkswagen",
+      "model": "Cabriolet",
+      "year": 2001,
+      "country": "Peru",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 247,
+      "brand": "Nissan",
+      "model": "Maxima",
+      "year": 1994,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 248,
+      "brand": "Toyota",
+      "model": "T100 Xtra",
+      "year": 1995,
+      "country": "China",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 249,
+      "brand": "Suzuki",
+      "model": "Swift",
+      "year": 1992,
+      "country": "Japan",
+      "damage": 0,
+      "color": "Crimson"
+    },
+    {
+      "id": 250,
+      "brand": "Lamborghini",
+      "model": "Diablo",
+      "year": 1994,
+      "country": "Qatar",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 251,
+      "brand": "Ford",
+      "model": "Ranger",
+      "year": 2001,
+      "country": "China",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 252,
+      "brand": "Mercury",
+      "model": "Mountaineer",
+      "year": 2004,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 253,
+      "brand": "Porsche",
+      "model": "924 S",
+      "year": 1987,
+      "country": "China",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 254,
+      "brand": "Kia",
+      "model": "Spectra",
+      "year": 2008,
+      "country": "France",
+      "damage": 0,
+      "color": "Violet"
+    },
+    {
+      "id": 255,
+      "brand": "Plymouth",
+      "model": "Colt Vista",
+      "year": 1994,
+      "country": "China",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 256,
+      "brand": "Mitsubishi",
+      "model": "Galant",
+      "year": 1999,
+      "country": "Canada",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 257,
+      "brand": "Ford",
+      "model": "Club Wagon",
+      "year": 1994,
+      "country": "United States",
+      "damage": 1,
+      "color": "Puce"
+    },
+    {
+      "id": 258,
+      "brand": "Audi",
+      "model": "S4",
+      "year": 2009,
+      "country": "Peru",
+      "damage": 1,
+      "color": "Orange"
+    },
+    {
+      "id": 259,
+      "brand": "Porsche",
+      "model": "911",
+      "year": 2011,
+      "country": "Colombia",
+      "damage": 0,
+      "color": "Purple"
+    },
+    {
+      "id": 260,
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 1997,
+      "country": "China",
+      "damage": 0,
+      "color": "Teal"
+    },
+    {
+      "id": 261,
+      "brand": "Subaru",
+      "model": "Justy",
+      "year": 1994,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Purple"
+    },
+    {
+      "id": 262,
+      "brand": "Buick",
+      "model": "Skylark",
+      "year": 1989,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Indigo"
+    },
+    {
+      "id": 263,
+      "brand": "Ferrari",
+      "model": "F430",
+      "year": 2008,
+      "country": "France",
+      "damage": 0,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 264,
+      "brand": "Chevrolet",
+      "model": "Prizm",
+      "year": 1999,
+      "country": "Ukraine",
+      "damage": 1,
+      "color": "Red"
+    },
+    {
+      "id": 265,
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "year": 1994,
+      "country": "United States",
+      "damage": 1,
+      "color": "Puce"
+    },
+    {
+      "id": 266,
+      "brand": "Toyota",
+      "model": "T100",
+      "year": 1996,
+      "country": "Philippines",
+      "damage": 0,
+      "color": "Yellow"
+    },
+    {
+      "id": 267,
+      "brand": "Ford",
+      "model": "E150",
+      "year": 2012,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 268,
+      "brand": "Pontiac",
+      "model": "Bonneville",
+      "year": 1995,
+      "country": "Nigeria",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 269,
+      "brand": "Mercury",
+      "model": "Cougar",
+      "year": 1984,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 270,
+      "brand": "Mitsubishi",
+      "model": "Pajero",
+      "year": 2001,
+      "country": "Portugal",
+      "damage": 1,
+      "color": "Green"
+    },
+    {
+      "id": 271,
+      "brand": "Chrysler",
+      "model": "LeBaron",
+      "year": 1995,
+      "country": "Japan",
+      "damage": 0,
+      "color": "Crimson"
+    },
+    {
+      "id": 272,
+      "brand": "Mazda",
+      "model": "626",
+      "year": 1985,
+      "country": "Argentina",
+      "damage": 0,
+      "color": "Yellow"
+    },
+    {
+      "id": 273,
+      "brand": "Ford",
+      "model": "F150",
+      "year": 1992,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Pink"
+    },
+    {
+      "id": 274,
+      "brand": "Pontiac",
+      "model": "Sunfire",
+      "year": 1999,
+      "country": "Yemen",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 275,
+      "brand": "Dodge",
+      "model": "Ram Van 1500",
+      "year": 2002,
+      "country": "Albania",
+      "damage": 1,
+      "color": "Yellow"
+    },
+    {
+      "id": 276,
+      "brand": "BMW",
+      "model": "1 Series",
+      "year": 2009,
+      "country": "Philippines",
+      "damage": 1,
+      "color": "Khaki"
+    },
+    {
+      "id": 277,
+      "brand": "Honda",
+      "model": "Fit",
+      "year": 2009,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 278,
+      "brand": "Toyota",
+      "model": "MR2",
+      "year": 2005,
+      "country": "Russia",
+      "damage": 0,
+      "color": "Orange"
+    },
+    {
+      "id": 279,
+      "brand": "Dodge",
+      "model": "Viper",
+      "year": 2004,
+      "country": "Azerbaijan",
+      "damage": 1,
+      "color": "Mauv"
+    },
+    {
+      "id": 280,
+      "brand": "Volkswagen",
+      "model": "Eurovan",
+      "year": 1995,
+      "country": "Finland",
+      "damage": 1,
+      "color": "Violet"
+    },
+    {
+      "id": 281,
+      "brand": "Mitsubishi",
+      "model": "Eclipse",
+      "year": 1994,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Blue"
+    },
+    {
+      "id": 282,
+      "brand": "Chevrolet",
+      "model": "2500",
+      "year": 1995,
+      "country": "China",
+      "damage": 1,
+      "color": "Turquoise"
+    },
+    {
+      "id": 283,
+      "brand": "Chevrolet",
+      "model": "HHR",
+      "year": 2009,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "Pink"
+    },
+    {
+      "id": 284,
+      "brand": "GMC",
+      "model": "Canyon",
+      "year": 2008,
+      "country": "Serbia",
+      "damage": 1,
+      "color": "Pink"
+    },
+    {
+      "id": 285,
+      "brand": "Chevrolet",
+      "model": "Blazer",
+      "year": 1999,
+      "country": "China",
+      "damage": 1,
+      "color": "Goldenrod"
+    },
+    {
+      "id": 286,
+      "brand": "Chrysler",
+      "model": "Concorde",
+      "year": 2003,
+      "country": "Finland",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 287,
+      "brand": "Cadillac",
+      "model": "XLR",
+      "year": 2005,
+      "country": "France",
+      "damage": 1,
+      "color": "Khaki"
+    },
+    {
+      "id": 288,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 1969,
+      "country": "Mexico",
+      "damage": 1,
+      "color": "Teal"
+    },
+    {
+      "id": 289,
+      "brand": "Toyota",
+      "model": "Tacoma Xtra",
+      "year": 2001,
+      "country": "Portugal",
+      "damage": 0,
+      "color": "Fuscia"
+    },
+    {
+      "id": 290,
+      "brand": "Ford",
+      "model": "Thunderbird",
+      "year": 1983,
+      "country": "Brazil",
+      "damage": 1,
+      "color": "Aquamarine"
+    },
+    {
+      "id": 291,
+      "brand": "BMW",
+      "model": "Z4 M",
+      "year": 2007,
+      "country": "Ecuador",
+      "damage": 1,
+      "color": "Khaki"
+    },
+    {
+      "id": 292,
+      "brand": "Toyota",
+      "model": "Avalon",
+      "year": 1998,
+      "country": "Libya",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 293,
+      "brand": "Infiniti",
+      "model": "QX56",
+      "year": 2007,
+      "country": "China",
+      "damage": 0,
+      "color": "Teal"
+    },
+    {
+      "id": 294,
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": 1997,
+      "country": "Brazil",
+      "damage": 1,
+      "color": "Blue"
+    },
+    {
+      "id": 295,
+      "brand": "Hyundai",
+      "model": "Veloster",
+      "year": 2013,
+      "country": "China",
+      "damage": 1,
+      "color": "Fuscia"
+    },
+    {
+      "id": 296,
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 2005,
+      "country": "Poland",
+      "damage": 0,
+      "color": "Red"
+    },
+    {
+      "id": 297,
+      "brand": "Dodge",
+      "model": "Durango",
+      "year": 1998,
+      "country": "Greece",
+      "damage": 0,
+      "color": "Khaki"
+    },
+    {
+      "id": 298,
+      "brand": "Mazda",
+      "model": "RX-7",
+      "year": 1991,
+      "country": "Japan",
+      "damage": 0,
+      "color": "Puce"
+    },
+    {
+      "id": 299,
+      "brand": "Plymouth",
+      "model": "Acclaim",
+      "year": 1994,
+      "country": "Indonesia",
+      "damage": 1,
+      "color": "Khaki"
+    },
+    {
+      "id": 300,
+      "brand": "Volvo",
+      "model": "S60",
+      "year": 2009,
+      "country": "Indonesia",
+      "damage": 0,
+      "color": "red"
+    }
+  ]
+}
